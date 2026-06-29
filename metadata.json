@@ -1,0 +1,6 @@
+{
+  "name": "Amintchi Market",
+  "description": "Le Premier Marché Intelligent du Niger propulsé par la Blockchain (Amintchi Coin AMC sur Solana). Écosystème hybride e-commerce, cashback fidélité, transactions ultra-rapides et assistant IA multilingue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
