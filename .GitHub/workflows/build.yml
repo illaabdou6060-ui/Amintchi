@@ -1,3 +1,7 @@
+name: Build apk 
+on:
+push:
+
 branches:
   - main
 
